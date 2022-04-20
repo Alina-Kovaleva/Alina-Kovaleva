@@ -21,6 +21,8 @@ But I keep hoping that someday I'll be a real developer.
 ### TECH KNOWLEDGE 📚
 JavaScript, HTML/ HTML5, CSS/CSS3, React, Express, Redux, Sequelize, Git, NodeJS, PostgreSQL, Bootstrap, Figma
 
+### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alina-kovaleva/)
+
 <!--
 **Alina-Kovaleva/Alina-Kovaleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
