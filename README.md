@@ -26,6 +26,11 @@ But I keep hoping that someday I'll be a real developer.
 <br>
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+<br>
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 Express, Sequelize, Git, NodeJS, PostgreSQL, Bootstrap, Figma
 
 ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alina-kovaleva/)
