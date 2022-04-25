@@ -32,8 +32,7 @@ But I keep hoping that someday I'll be a real developer.
 <br>
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 <img src='https://camo.githubusercontent.com/1d7814efc567041c56f7cb83654566f6be83d8b2ff4392b6c1321bfeed7d7dc1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53657175656c697a652d3532423045373f6c6f676f3d73657175656c697a65266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765' />
-<br>
-Git, Bootstrap, Figma
+
 
 ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alina-kovaleva/)
 
