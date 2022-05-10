@@ -1,4 +1,4 @@
-# Junior Full-Stack Developer
+# Junior Full Stack Developer
 ---
 
 ### ABOUT ME 🙋‍♀️
