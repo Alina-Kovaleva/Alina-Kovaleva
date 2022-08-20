@@ -36,8 +36,7 @@ But I keep hoping that someday I'll be a real developer.
 
 # My GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-Kovaleva&layout=compact&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-Kovaleva&layout=compact&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-Kovaleva&layout=compact&show_icons=false&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api?username=Alina-Kovaleva&show_icons=true&theme=radical)
 
