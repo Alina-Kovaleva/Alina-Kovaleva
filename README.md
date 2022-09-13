@@ -1,22 +1,20 @@
 # Junior Full Stack Developer
 ---
+<a href="https://www.linkedin.com/in/alina-kovaleva/" target="_blank">
+  <img align="left" alt="rayssalves's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ### ABOUT ME 🙋‍♀️
-Hi there! 👋  I'm Alina from Russia, but I have Dutch permanent residence permit.
-I currently living in Wormer, North Holland.
+Hi there! 👋  I'm Alina, born in Kyrgyzstan, raised in Russia and living in the Netherlands for almost 6 years.
 
 Ever since school, I wanted to work in IT, so I even entered the university for an IT specialty. 
 I have a Master’s degree in computer since.
 
-In 2014 I left Russia. Before the Netherlands, I lived in Bahrain for 2 years.
-There I began to study English and web development.
-
-In the Netherlands, I continued to study English and develop myself in web development.
-I also started learning the Dutch language.
-I have been living in the Netherlands for a little over 5 years.
-
 For personal reasons, I did not have a chance to work in my field. 
-But I keep hoping that someday I'll be a real developer.
+But I keep hoping that someday I'll be a professional developer.
+
+My main focus is in front-end development, I’m currently learning everything and loving it
+💼 Open to work and ready to learn
 
 ### TECH KNOWLEDGE 📚
 
