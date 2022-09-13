@@ -15,6 +15,7 @@ For personal reasons, I did not have a chance to work in my field.
 But I keep hoping that someday I'll be a professional developer.
 
 My main focus is in front-end development, I’m currently learning everything and loving it
+
 💼 Open to work and ready to learn
 
 ### TECH KNOWLEDGE 📚
