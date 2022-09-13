@@ -40,7 +40,7 @@ My main focus is in front-end development, I’m currently learning everything a
 ![](https://github-readme-stats.vercel.app/api?username=Alina-Kovaleva&show_icons=true&theme=radical)
 
 
-### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alina-kovaleva/)
+<!-- ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alina-kovaleva/) -->
 
 <!--
 **Alina-Kovaleva/Alina-Kovaleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
