@@ -4,6 +4,7 @@
   <img align="left" alt="rayssalves's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <br/>
+
 ### ABOUT ME 🙋‍♀️
 Hi there! 👋  I'm Alina, born in Kyrgyzstan, raised in Russia and living in the Netherlands for almost 6 years.
 
