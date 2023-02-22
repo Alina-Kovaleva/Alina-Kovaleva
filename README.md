@@ -16,7 +16,8 @@ But I keep hoping that someday I'll be a professional developer.
 
 My main focus is in front-end development, I’m currently learning everything and loving it
 
-💼 Open to work and ready to learn
+<!-- 💼 Open to work and ready to learn -->
+<!-- Ready to learn -->
 
 ### TECH KNOWLEDGE 📚
 
