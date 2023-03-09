@@ -37,6 +37,9 @@ My main focus is in front-end development, I’m currently learning everything a
  
 # My GitHub Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Alina-Kovaleva)](https://git.io/awesome-stats-card)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-Kovaleva)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-Kovaleva&layout=compact&show_icons=false&theme=radical)
 
