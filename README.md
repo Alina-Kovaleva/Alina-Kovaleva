@@ -1,6 +1,6 @@
 # Junior Full Stack Developer
 ---
-## Hi there 👋 My name is Alina**
+## Hi there 👋 My name is Alina
 
 ### I'm a ✨ Full Stack Developer ✨ based in The Netherlands.
 <br/>
