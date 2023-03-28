@@ -1,8 +1,10 @@
 # Junior Full Stack Developer
 ---
+<br/>
 <a href="https://www.linkedin.com/in/alina-kovaleva/" target="_blank">
   <img align="left" alt="rayssalves's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<br/>
 <br/>
 Hi there 👋 My name is Alina
 I'm a ✨ Full Stack Developer ✨ based in The Netherlands.
