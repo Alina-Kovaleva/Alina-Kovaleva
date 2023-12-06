@@ -44,14 +44,14 @@ My main focus is in front-end development, I’m currently learning everything a
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 <img src='https://camo.githubusercontent.com/1d7814efc567041c56f7cb83654566f6be83d8b2ff4392b6c1321bfeed7d7dc1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53657175656c697a652d3532423045373f6c6f676f3d73657175656c697a65266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765' />
-
+<!--
 # My GitHub Stats
 <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alina-Kovaleva&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="Mark's Github stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-Kovaleva&theme=tokyonight&show_icons=true&layout=compact&langs_count=6" alt="Mark's most used languages"/>
 </div>
 
-
+-->
 <!-- ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alina-kovaleva/) -->
 
 <!--
